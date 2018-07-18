@@ -1,0 +1,30 @@
+body{
+	background-color: BlueViolet;
+	border: 5px double white;
+	padding: 30px;
+	
+}
+
+h1{
+	color: white;
+	font-family:courier;
+	font-size: 450%;
+	
+	
+}
+
+h2{
+	color: white;
+	font-family: courier;
+	font-size: 200%;
+	
+}
+
+p{
+	color: white;
+	font-family:courier;
+	font-size: 100%;
+
+}
+
+
