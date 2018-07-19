@@ -8,20 +8,23 @@ body{
 h1{
 	color: white;
 	font-family: courier;
-	font-size: 350%;
+	font-size: 450%;
+	outline-color: black;
 }
 
 
 h2{
 	color: white;
 	font-family: verdana;
-	font-size: 220%;
+	font-size: 200%;
+	outline-color: black;
 	
 }
 
 p{
 	color: white;
 	font-family: verdana;
-	font-size: 170%;
+	font-size: 150%;
+	outline-color: black;
 
 }
